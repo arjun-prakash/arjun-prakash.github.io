@@ -1,11 +1,11 @@
-## Welcome to GitHub 
-<a href="arjun-prakash.github.io/Arjun_Prakash_Resume_29-04-2020-16-10-41.pdf" target="_blank">PDF.</a>
+# About me
+I am Data Scienctist and recent graduate from the University of Sydney with a double degree in Computer Science (Hons I) and Business Analytics. 
 
-You can use the [editor on GitHub](https://github.com/arjun-prakash/arjun-prakash.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# My Links
+## Papers
+(Clustering volatility regimes for dynamic trading strategies)[https://arxiv.org//abs/2004.09963](submitted): We develop a new method to find the number of volatility regimes in a non-stationary financial time series. We use change point detection to partition a time series into locally stationary segments, then estimate the distributions of each piece. The distributions are clustered into a learned number of discrete volatility regimes via an optimisation routine. Using this method, we investigate and determine a clustering structure for indices, large cap equities and exchange-traded funds. Finally, we create and validate a dynamic portfolio allocation strategy that learns the optimal match between the current distribution of a time series with its past regimes, thereby making online risk-avoidance decisions in the present. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
