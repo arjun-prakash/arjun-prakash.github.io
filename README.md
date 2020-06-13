@@ -1,5 +1,5 @@
 ## Welcome to GitHub 
-<a href="arjun-prakash.github.io/folder/Arjun_Prakash_Resume_29-04-2020-16-10-41.pdf" target="_blank">PDF.</a>
+<a href="arjun-prakash.github.io/Arjun_Prakash_Resume_29-04-2020-16-10-41.pdf" target="_blank">PDF.</a>
 
 You can use the [editor on GitHub](https://github.com/arjun-prakash/arjun-prakash.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
