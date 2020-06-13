@@ -9,7 +9,7 @@ I am Data Scienctist and recent graduate from the University of Sydney with a do
 
 [Mitsubishi Electric](https://www.asianz.org.nz/business/intern-optimizes-life-and-algorithms-in-tokyo/): I spent 3 months in Japan (for the first time), working in the Advanced Machine Learning Division thanks to the Asia New Zealand Foundation. 
 
-[Stan Droid](https://bitbucket.org/a-prakash/publicstan/src/master/): A chatbot I made for St Andrew's college to tell the menu, calendar and order food.
+[Stan Droid](https://bitbucket.org/a-prakash/publicstan/src/master/): A customer service chatbot for students and admin staff of St Andrew's College with continuous integration and unit testing. 90% uptake and over 100 thousand messages per year.
 
 [Scopus Miner](https://bitbucket.org/hamishivi/scopusminer/src/master/) with Hamish Ivison, Andrew Campbell and Boris Leung: A tool to extract high quality data from a corpus of abstracts from academic literature, and present the data in a visual and interpretable format. These visualisations may be transferred to other domains of textual information, providing intuitive methods to gain new insight and explore various text-based datasets. 
 
