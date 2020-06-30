@@ -1,5 +1,5 @@
 # About me
-I am Data Scienctist and recent graduate from the University of Sydney with a double degree in Computer Science (Hons I) and Business Analytics. 
+I am Data Scientist and recent graduate from the University of Sydney with a double degree in Computer Science (Hons I) and Business Analytics. 
 
 # My Links
 ## Papers
