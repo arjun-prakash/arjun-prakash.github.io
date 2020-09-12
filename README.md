@@ -3,9 +3,11 @@ I am Data Scientist and recent graduate from the University of Sydney with a dou
 
 # My Links
 ## Papers
-__[Clustering volatility regimes for dynamic trading strategies](https://arxiv.org//abs/2004.09963) 
-_Submitted to the Journal of Economic Dynamics and Control_ 
-with Gilad Francis, Nick James and Max Menzies__ 
+__[Clustering volatility regimes for dynamic trading strategies](https://arxiv.org//abs/2004.09963)__
+
+___Submitted to the Journal of Economic Dynamics and Control___
+
+__with Gilad Francis, Nick James and Max Menzies__ 
 We develop a new method to find the number of volatility regimes in a non-stationary financial time series. We create and validate a dynamic portfolio allocation strategy that learns the optimal match between the current distribution of a time series with its past regimes, thereby making online risk-avoidance decisions in the present.
 
 __[On the Fairness of 'Fake' Data in Legal AI](https://arxiv.org/abs/2009.04640) 
