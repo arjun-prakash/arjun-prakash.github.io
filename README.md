@@ -4,7 +4,7 @@ I am Data Scientist and recent graduate from the University of Sydney with a dou
 # My Links
 ## Papers
 __[Clustering volatility regimes for dynamic trading strategies](https://arxiv.org//abs/2004.09963)__
-__*Submitted to the Journal of Economic Dynamics and Control* with Gilad Francis, Nick James and [Max Menzies](https://maxmenzies.github.io/):__ 
+__with Gilad Francis, Nick James and [Max Menzies](https://maxmenzies.com):__ 
 
 We develop a new method to find the number of volatility regimes in a non-stationary financial time series. We create and validate a dynamic portfolio allocation strategy that learns the optimal match between the current distribution of a time series with its past regimes, thereby making online risk-avoidance decisions in the present.
 
