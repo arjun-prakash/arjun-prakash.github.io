@@ -1,5 +1,9 @@
 # About me
-I am Data Scientist and recent graduate from the University of Sydney with a double degree in Computer Science (Hons I) and Business Analytics. 
+Hey there, and thanks for visiting my page. I am a Data Scientist working at [Faethm.ai](faethm.ai) where I research the impact of AI and emerging technologies on jobs. In particular I model job transition in the hope of finding good jobs for people who are at risk of automation. 
+
+In my free time I read, lift and play chess. I am also interested in reinforcement learning and how it can be applied to economics. 
+
+I graduated from the University of Sydney with a double degree in Computer Science (Hons I) and Business Analytics in 2019. 
 
 # My Links
 ## Papers
