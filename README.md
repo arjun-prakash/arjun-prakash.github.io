@@ -9,7 +9,7 @@ I graduated from the University of Sydney with a double degree in Computer Scien
 
 # My Links
 ## Reinforcement Learning
-In my free time I work on multi-agent reinforcement learning. I am a third party contributor to [Petting Zoo](https://github.com/PettingZoo-Team/PettingZoo/blob/master/docs/third_party_envs.md). My repo, [pz-dilemma](https://github.com/arjun-prakash/pz_dilemma) adds a collection of game theory environments. 
+In my free time I work on multi-agent reinforcement learning. I am a third party contributor to [Petting Zoo](https://github.com/PettingZoo-Team/PettingZoo/blob/master/docs/third_party_envs.md). My repo, [pz-dilemma](https://github.com/arjun-prakash/pz_dilemma), adds a collection of game theory environments. 
 
 __[Cycling, Centipedes and MARL](https://medium.com/@arjunprakash_18193/cycling-centipedes-and-multi-agent-reinforcement-learning-5cf3c5d9ebd7)__: A project examining the centipede game when played by RL agents. 
 
