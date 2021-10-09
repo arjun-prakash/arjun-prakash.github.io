@@ -15,8 +15,6 @@ In my free time I work on multi-agent reinforcement learning. I am a third party
 
 __[Cycling, Centipedes and MARL](https://medium.com/@arjunprakash_18193/cycling-centipedes-and-multi-agent-reinforcement-learning-5cf3c5d9ebd7)__: A project examining the centipede game when played by RL agents. 
 
-My most in depth work, so far, is on the centipede game. You can see the full medium write up [here!]
-
 ## Papers
 __[Clustering volatility regimes for dynamic trading strategies](https://arxiv.org//abs/2004.09963)__
 __with Gilad Francis, Nick James and [Max Menzies](https://maxmenzies.com):__ 
