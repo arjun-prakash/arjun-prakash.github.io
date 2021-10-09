@@ -1,5 +1,5 @@
 # About me
-![Head shot](Headshot.png)
+![Head shot](headshot.png)
 
 Hey there, and thanks for visiting my page!
 
