@@ -5,7 +5,7 @@ Hey there, and thanks for visiting my page!
 
 I am a PhD student at Brown University. I will be researching multi-agent reinforcement learning and its application to swarm robotics with [Amy Greenwald](http://glamor.cs.brown.edu/) and [Nora Ayanian](https://viterbi-web.usc.edu/~ayanian/). 
 
-Previously, I was an AI engineer at [Faethm.ai](https://faethm.ai/) where I researched the impact of AI and emerging technologies on jobs. In particular I modeled job transition in the hope of finding good jobs for people who are at risk of automation. I also worked extensively on extracting skills from millions of job ads using advanced NLP techniques to model the demand side of skill trends. 
+Previously, I was an AI engineer at [Faethm.ai](https://faethm.ai/) where I researched the impact of AI and emerging technologies on jobs. In particular, I modeled job transition in the hope of finding good jobs for people who are at risk of automation. I also worked extensively on extracting skills from millions of job ads using advanced NLP techniques to model the demand side of skill trends. 
 
 I graduated from the University of Sydney with a double degree in Computer Science (Hons I) and Business Analytics in 2019. 
 
