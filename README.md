@@ -3,13 +3,15 @@
 
 Hey there, and thanks for visiting my page!
 
-I am a Data Scientist working at [Faethm.ai](https://faethm.ai/) where I research the impact of AI and emerging technologies on jobs. In particular I model job transition in the hope of finding good jobs for people who are at risk of automation. I am also interested in reinforcement learning and how it can be applied to economics.
+I am a PhD student at Brown University. I will be researching multi-agent reinforcement learning and its application to swarm robotics with [Amy Greenwald](http://glamor.cs.brown.edu/) and [Nora Ayanian](https://viterbi-web.usc.edu/~ayanian/). 
+
+Previously,I was an AI engineer at [Faethm.ai](https://faethm.ai/) where I researched the impact of AI and emerging technologies on jobs. In particular I modeled job transition in the hope of finding good jobs for people who are at risk of automation. I also worked extensively on extracting skills from millions of job ads using advanced NLP techniques to model the demand side of skill trends. 
 
 I graduated from the University of Sydney with a double degree in Computer Science (Hons I) and Business Analytics in 2019. 
 
 # My Links
 ## Reinforcement Learning
-In my free time I work on multi-agent reinforcement learning. I am a third party contributor to [Petting Zoo](https://github.com/PettingZoo-Team/PettingZoo/blob/master/docs/third_party_envs.md). My repo, [pz-dilemma](https://github.com/arjun-prakash/pz_dilemma), adds a collection of game theory environments. 
+In my free time I work on multi-agent reinforcement learning. I am a third party contributor to [Petting Zoo]https://www.pettingzoo.ml/third_party_envs). My repo, [pz-dilemma](https://github.com/arjun-prakash/pz_dilemma), adds a collection of game theory environments. 
 
 __[Cycling, Centipedes and MARL](https://medium.com/@arjunprakash_18193/cycling-centipedes-and-multi-agent-reinforcement-learning-5cf3c5d9ebd7)__: A project examining the centipede game when played by RL agents. 
 
